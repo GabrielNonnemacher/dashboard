@@ -19,8 +19,8 @@ In this project I bring an integration with **Google Charts** for demonstration 
 
 ## 🛠️ Technologies and Tools
 
-* Angular - v16.1 - [Documentation](https://angular.io)
-* API - Central Bank of Brazil - [Documentation](https://www.bcb.gov.br)
+* Angular - v17.2 - [Documentation](https://angular.dev)
+* Integration - Google Charts - [Documentation](https://developers.google.com/chart)
   
 <br/>
 
