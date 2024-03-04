@@ -34,7 +34,7 @@ In this project I bring an integration with **Google Charts** for demonstration 
 
 First copy the project to a desired folder
 ```
-git clone https://github.com/GabrielNonnemacher/calculator.git
+git clone https://github.com/GabrielNonnemacher/example-dashboard.git
 ```
 Install necessary dependencies
 ```
