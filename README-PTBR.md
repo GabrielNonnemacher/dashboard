@@ -34,7 +34,7 @@ Nesse projeto trago uma integração com o **Google Charts** para fins de demons
 
 Primeiramente copie o projeto para uma pasta desejada
 ```
-git clone https://github.com/GabrielNonnemacher/currencies-quotes.git
+git clone https://github.com/GabrielNonnemacher/example-dashboard.git
 ```
 Install necessary dependencies
 ```
